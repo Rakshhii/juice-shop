@@ -1,4 +1,4 @@
-version: "2"
+version: "2.1"
 plugins:
   fixme:
     enabled: true
